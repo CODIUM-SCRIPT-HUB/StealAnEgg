@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/logo.png" alt="Codium Logo" width="120" />
+  <img src="assets/kodium_icon_512.png" alt="Codium Logo" width="120" />
 
   <h1>Codium — Steal an Egg</h1>
   <p>Lightweight, stable, and feature-rich script for <strong>Steal an Egg</strong>.</p>
@@ -31,7 +31,7 @@ loadstring(game:HttpGet("https://getcodium.xyz/loader.luau"))()
 ## Preview
 
 <div align="center">
-  <img src="assets/preview.png" alt="Codium Script Interface" width="90%" />
+  <img src="assets/Screenshot 2026-09-30 184109.png" alt="Codium Script Interface" width="90%" />
 </div>
 
 ---
